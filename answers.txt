@@ -1,3 +1,8 @@
 Q1: Why might we consider using Git?
 
 Answer: Git can allow us to make changes while preserving history. This allows us to rollback to a previous version if needed. Another benefit is collaboration, allowing multiple people to work on the same project while keeping history and changes. 
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: we can use data science in machine learning. This can be applied to finding information to train a model for!
+
