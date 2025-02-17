@@ -6,3 +6,8 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: we can use data science in machine learning. This can be applied to finding information to train a model for!
 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: I am not sure, google says it has to do with the way that git history works.
+
