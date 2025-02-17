@@ -11,3 +11,7 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: I am not sure, google says it has to do with the way that git history works.
 
+Q4: What are you looking forward to this semester?
+
+Answer: Learning to use tools like git better and more practically.
+
